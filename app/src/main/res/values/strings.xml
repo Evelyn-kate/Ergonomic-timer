@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">Ergonomic Timer</string>
+    <string name="prefLoginState">loginstate</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="profession">Profession</string>
+    <string name="email">Email</string>
+    <string name="sex">Sex</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_notification">Notifications</string>
+    <string name="title_about">About</string>
+    <string name="title_terms">Terms and Condition</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_logout">Log out</string>
+    <string name="title_change_password">Change Password</string>
+
+    <string name="channel_id">MyChannel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log out</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_Setup_timer">menu_Setup_timer</string>
+    <string name="menu_Yoga_exercise">Yoga_exercise</string>
+
+
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="dummy_button"> Welcome </string>
+    <string name="dummy_content">Flow Yoga App</string>
+    <string name="quotation">Get quotation</string>
+    <string name="addPoseToSession">Add Pose to Session</string>
+    <string name="complete">Complete?</string>
+    <string name="imageOfPose">Image of pose</string>
+    <string name="addPoseContent">Add a new pose</string>
+    <string name="addPoseButton">Add Pose</string>
+    <string name="addPoseTitle">Add a new pose</string>
+    <string name="newPoseLabel">New:</string>
+    <string name="newSanskritLabel">Sanskrit name:</string>
+    <string name="newDurationLabel">Duration:</string>
+    <string name="newChakraLabel">Chakra:</string>
+    <string name="addNewSessionTitle">Add a new session</string>
+    <string name="newSessionLabel">Name:</string>
+    <string name="newSessionDayLabel">Day:</string>
+    <string name="newSessionFocusLabel">Focus:</string>
+    <string name="newSessionDurationLabel">Duration:</string>
+    <string name="addSessionButton">Add Session</string>
+    <string name="addPoseToSessionBtn">Add Pose to Session</string>
+    <string name="lotusLogoLaunch">Picture of lotus</string>
+    <string name="fingerPrint">Button to indicate fingerprint needed</string>
+    <string name="deletPoseOption">Delete</string>
+    <string name="durationMins">Duration ;</string>
+    <string name="chakraEntry">Chakra:</string>
+    <string name="quotationTextEntry">Yoga quotation appears here</string>
+    <string name="nextButton">Next</string>
+    <string name="nextBtn">Generates random quotation</string>
+    <string name="deleteSessionBtn">Delete Session</string>
+    <string name="focusTag">Focus:</string>
+    <string name="sessionDuration">Duration:</string>
+    <string name="doAgainBtn">Do Again</string>
+    <string name="imagePoseList">Image of yoga pose</string>
+    <string name="completeBtn">Mark to indicate the session is complete</string>
+    <string name="listLotus">Image of lotus</string>
+    <string name="defaultSession">20</string>
+    <string name="setText">Pause</string>
+    <string name="startText">Start</string>
+    <string-array name="settings_list_preference_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="settings_list_preference_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+     <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_Setup_timer"
+            android:icon="@drawable/ic_baseline_timer_24"
+            android:title="@string/menu_Setup_timer" />
+        <item
+            android:id="@+id/nav_Yoga_exercise"
+            android:icon="@drawable/ic_baseline_sports_24"
+            android:title="@string/menu_Yoga_exercise" />
+    </group>
+</menu>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="drak_blue">#3023ae</color>
+    <color name="blue">#0000ff</color>
+    <color name="purple">#c66dd7</color>
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="orange">#ffa500</color>
+    <color name="green">#008000</color>
+    <color name="gold">#ffd700</color>
+
+
+    <color name="dashboard_bg">#02A0E1</color>
+
+    <color name="primary">#0275d8</color>
+    <color name="success">#5cb85c</color>
+    <color name="info">#5bc0de</color>
+    <color name="warning">#f0ad4e</color>
+    <color name="danger">#d9534f</color>
+    <color name="inverse">#292b2c</color>
+    <color name="faded">#f7f7f7</color>
+
+    <color name="login_form_details">#ccffffff</color>
+    <color name="login_form_details_light">#1affffff</color>
+    <color name="login_form_details_medium">#66ffffff</color>
+
+    <color name="colorPrimary_dashboard">#0000ff</color>
+    <color name="colorPrimaryDark_dashboard">#0000ff</color>
+    <color name="colorAccent_dashboard">#8e8e8e</color>
+
+    <color name="list_divider">#dedede</color>
+    <color name="bg_bubble_self">#E1E1E1</color>
+
+    <color name="darkGreen">#55828b</color>
+    <color name="lightPurple">#c4b7cb</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="lightGreen">#bfedef</color>
+    <color name="lightGrey">#eeeeee</color>
+    <color name="darkGrey">#bbc7ce</color>
+    <color name="darkPurple">#161b33</color>
+</resources>

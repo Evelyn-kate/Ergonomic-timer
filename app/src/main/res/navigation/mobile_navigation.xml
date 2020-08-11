@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.ergonomictimer.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_menu_Setup_timer"
+        android:name="com.example.ergonomictimer.ui.gallery.GalleryFragment"
+        android:label="@string/menu_Setup_timer"
+        tools:layout="@layout/fragment_Setup_timer" />
+
+    <fragment
+        android:id="@+id/nav_Yoga_exercise"
+        android:name="com.example.ergonomictimer.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_Yoga_exercise"
+        tools:layout="@layout/fragment_Yoga_exercise" />
+</navigation>
